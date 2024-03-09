@@ -4,4 +4,4 @@ A repository containing the data structures of systems used in the paper "Automa
 A python implementation of QFRAGS has been provided. The code has been tested with python/3.12.1. An execution line to run the python code is:
 `python3 ./main.py <input json>`
 
-An example input json file is provided in `example_inputs`.
+An example input json file is provided in `QFRAGS/example_inputs`.
